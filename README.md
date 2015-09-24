@@ -1,2 +1,2 @@
 # t2_arq
-Trabalho 2 de Arquitetura de Computadores
+Trabalho T2 de Arquitetura de Computadores - PUCRS
